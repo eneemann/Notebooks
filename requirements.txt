@@ -1,3 +1,5 @@
+pandas
+matplotlib
 rasterio
 scikit-learn
 scikit-image
