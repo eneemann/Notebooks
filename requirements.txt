@@ -9,3 +9,4 @@ lxml
 psycopg2
 tqdm
 geemap
+descartes
