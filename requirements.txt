@@ -1,0 +1,10 @@
+rasterio
+scikit-learn
+scikit-image
+fiona
+geopandas
+python-levenshtein
+beautifulsoup4
+lxml
+psycopg2
+tqdm
